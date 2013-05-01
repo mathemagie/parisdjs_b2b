@@ -13,6 +13,7 @@
               <li><a href="#resellers">Resellers</a></li>
               <li><a href="press.php">Press</a></li>
 			  <li><a href="#contact">Contact</a></li>
+         <li><a href="choose_profil.php">set profil</a></li>
             </ul>
               
              <!-- <li class="dropdown">

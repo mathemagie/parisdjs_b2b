@@ -1,29 +1,35 @@
+<?php require_once "config.php";?>
 <?php require_once "header.php";?>
   <body>
   <?php require_once "menu.php";?>
    
 
     <div class="container">
-        <bt/><br/><br/><br/>
+        <bt/><br/>
+        debug profil : 
+        <?php
+          if (is_media()) echo "media";
+          if (is_revendeur()) echo "revendeur";
+        ?>
 
        <div class="row-fluid">
          
         
-          <br/>
-          <table class="table table-bordered table-hover">
-             <thead>
-    <tr>
-      <th>Logo </th>
-      <th>Description</th>
-            <th>Artist name</th>
-      <th>label</th>
-      <th>Release</th>
-      <th>unit price</th>
-      <th>stock</th>
-        <th>Order</th>
+            <br/>
+            <table class="table table-bordered table-hover">
+               <thead>
+              <tr>
+                <th>Logo </th>
+                <th>Description</th>
+                      <th>Artist name</th>
+                <th>label</th>
+                <th>Release</th>
+                <th>unit price</th>
+                <th>stock</th>
+                  <th>Order</th>
 
-    </tr>
-  </thead>
+              </tr>
+            </thead>
             <tr class="success">
            
               <td>coucou</td>
