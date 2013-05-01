@@ -6,7 +6,7 @@
   
 
     <div class="container">
-    <div class="well">
+    <div class="well span8">
     <ul class="nav nav-tabs">
       <li class="active"><a href="#home" data-toggle="tab">Profile</a></li>
       <li><a href="#profile" data-toggle="tab">Password</a></li>
