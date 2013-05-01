@@ -45,10 +45,10 @@
                     <?php if (!is_logged_in()) {?>
                       <li><a data-toggle="modal" href="#myModal" >Login</a></li>
                     <?php } else {?>
-                      <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Welcome, User <b class="caret"></b></a>
+                      <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Welcome, Aurelien <b class="caret"></b></a>
                           <ul class="dropdown-menu">
-                              <li><a href="/user/preferences"><i class="icon-cog"></i> Preferences</a></li>
-                              <li><a href="/help/support"><i class="icon-envelope"></i> Contact Support</a></li>
+                              <li><a href="user_update.php"><i class="icon-cog"></i> Preferences</a></li>
+                             
                               <li class="divider"></li>
                               <li><a href="logout.php"><i class="icon-off"></i> Logout</a></li>
                           </ul>
