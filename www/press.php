@@ -10,6 +10,21 @@
 		<p>Find here the press releases, media and information about our projects</p>
 
 	<ul class="thumbnails">
+   <?php for ($i=1; $i<5; $i++) {?>
+    <li class="span3">
+      <div class="thumbnail">
+          <a href="press_single.php" class="">
+            <img class="img-polaroid" src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""/>
+        </a>
+        <h3>Titre press release</h3>
+      
+      </div>
+    </li>
+  <?php } ?>
+
+  </ul>
+
+  <ul class="thumbnails">
     <li class="span3">
       <div class="thumbnail">
         <img class="img-polaroid" src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""/>
