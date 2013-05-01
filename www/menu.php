@@ -50,7 +50,7 @@
                               <li><a href="/user/preferences"><i class="icon-cog"></i> Preferences</a></li>
                               <li><a href="/help/support"><i class="icon-envelope"></i> Contact Support</a></li>
                               <li class="divider"></li>
-                              <li><a href="auth/logout.php"><i class="icon-off"></i> Logout</a></li>
+                              <li><a href="logout.php"><i class="icon-off"></i> Logout</a></li>
                           </ul>
                       </li>
                     <?php } ?>
