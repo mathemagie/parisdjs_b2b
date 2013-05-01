@@ -5,7 +5,7 @@
     <h3>Login to ParisDjs</h3>
   </div>
   <div class="modal-body">
-    <form method="post" action='' name="login_form">
+    <form method="post" action='choose_profil.php?profil=revendeur' name="login_form">
       <p><input type="text" class="span3" name="eid" id="email" placeholder="Email"></p>
       <p><input type="password" class="span3" name="passwd" placeholder="Password"></p>
       <p><button type="submit" class="btn btn-primary">Sign in</button>
