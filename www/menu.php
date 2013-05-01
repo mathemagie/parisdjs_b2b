@@ -6,12 +6,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="index.html">ParisDjs</a>
+          <a class="brand" href="index.php">ParisDjs</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
            
               <li><a href="#resellers">Resellers</a></li>
-              <li><a href="press.html">Press</a></li>
+              <li><a href="press.php">Press</a></li>
 			  <li><a href="#contact">Contact</a></li>
             </ul>
               
