@@ -1,95 +1,48 @@
 <?php require_once "header.php";?>
+								   
   <body>
-  <?php require_once "menu.php";?>
-   
+<?php require_once "menu.php";?>
 
     <div class="container">
-        <bt/><br/><br/><br/>
 
-       <div class="row-fluid">
-         
-        
-          <br/>
-          <table class="table table-bordered table-hover">
-             <thead>
-    <tr>
-      <th>Logo </th>
-      <th>Description</th>
-            <th>Artist name</th>
-      <th>label</th>
-      <th>Release</th>
-      <th>unit price</th>
-      <th>stock</th>
-        <th>Order</th>
+      <!-- Main hero unit for a primary marketing message or call to action -->
+    
+    
+      <h1>Press</h1>
+		<p>Find here the press releases, media and information about our projects</p>
 
-    </tr>
-  </thead>
-            <tr class="success">
-           
-              <td>coucou</td>
-              <td>parisdjs</td>
-              <td>TIMEC</td>
-              <td>release</td>
-              <td>12 10 1878</td>
-              <td>10</td>
-              <td>20</td>
-            </tr>
+		<ul class="thumbnails">
+  <li class="span3">
+    <div class="thumbnail">
+      <img class="img-polaroid" src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""/>
+      <h3>Titre press release</h3>
+    
+    </div>
+  </li>
+   <li class="span3">
+    <div class="thumbnail">
+      <img class="img-polaroid" src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""/>
+      <h3>Titre press release</h3>
+  
+    </div>
+  </li>
+  <li class="span3">
+    <div class="thumbnail">
+    <img class="img-polaroid" src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""/>
+      <h3>Titre press release</h3>
+     
+    </div>
+  </li>
+  <li class="span3">
+    <div class="thumbnail">
+       <img class="img-polaroid" src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""/>
+      <h3>Titre press release</h3>
 
-            <tr >
-              <td>coucou</td>
-              <td>PROJECT NAME</td>
-              <td>TIMEC</td>
-              <td>release</td>
-              <td>release</td>
-              <td>10</td>
-              <td>20</td>
-            </tr>
-
-             <tr >
-              <td>coucou</td>
-              <td>parisdjs</td>
-              <td>TIMEC</td>
-              <td>release</td>
-              <td>release</td>
-              <td>10</td>
-              <td>20</td>
-            </tr>
-
-             <tr >
-              <td>coucou</td>
-              <td>parisdjs</td>
-              <td>TIMEC</td>
-              <td>release</td>
-              <td>release</td>
-              <td>10</td>
-              <td>20</td>
-            </tr>
-
-             <tr >
-              <td>coucou</td>
-              <td>parisdjs</td>
-              <td>TIMEC</td>
-              <td>release</td>
-              <td>release</td>
-              <td>10</td>
-              <td>20</td>
-            </tr>
-
-             <tr >
-              <td>coucou</td>
-              <td>parisdjs</td>
-              <td>TIMEC</td>
-              <td>release</td>
-              <td>release</td>
-              <td>10</td>
-              <td>20</td>
-            </tr>
-
-
-          
-</table>
-      </div>
-
+    </div>
+  </li>
+ 
+</ul>
+		
       <!-- Example row of columns -->
      <!-- <div class="row">
         <div class="span4">
@@ -109,6 +62,18 @@
         </div>
       </div>-->
 
+	  <div class="pagination">
+  <ul>
+    <li><a href="#">Prev</a></li>
+    <li><a href="#">1</a></li>
+    <li><a href="#">2</a></li>
+    <li><a href="#">3</a></li>
+    <li><a href="#">4</a></li>
+    <li><a href="#">5</a></li>
+    <li><a href="#">Next</a></li>
+  </ul>
+</div>
+	  
       <hr>
 
       <footer>
@@ -134,5 +99,7 @@
     <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
 
+    <script src="js/holder/holder.js"></script>
+	
   </body>
 </html>
