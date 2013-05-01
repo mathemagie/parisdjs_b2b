@@ -2,7 +2,7 @@
 <div class="modal hide" id="myModal">
   <div class="modal-header">
     <button type="button" class="close" data-dismiss="modal">x</button>
-    <h3>Login to MyWebsite.com</h3>
+    <h3>Login to ParisDjs</h3>
   </div>
   <div class="modal-body">
     <form method="post" action='' name="login_form">
@@ -14,8 +14,8 @@
     </form>
   </div>
   <div class="modal-footer">
-    New To MyWebsite.com?
-    <a href="#" class="btn btn-primary">Register</a>
+    New To Parisdjs?
+    <a href="signup.php?profil=media" class="btn btn-primary">Register</a>
   </div>
 </div>
 <!-- put login form in common -->
