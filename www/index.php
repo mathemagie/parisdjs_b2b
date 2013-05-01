@@ -24,7 +24,9 @@
                     <th>Release</th>
                     <th>unit price</th>
                     <th>stock</th>
+                    <?php if (is_media()) {?>
                       <th>Order</th>
+                    <?php } ?>
 
                   </tr>
                 </thead>
