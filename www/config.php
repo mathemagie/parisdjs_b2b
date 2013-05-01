@@ -12,4 +12,9 @@
 		return 0;
 	}
 
+	function is_logged_in() {
+		if ($_COOKIE['logged_in'] == 1) return 1;
+		return 0;
+	}
+
 ?>

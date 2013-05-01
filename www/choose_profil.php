@@ -3,6 +3,7 @@
 
 	if (isset($profil)) {
 		setcookie("profil", $profil, time()+3600);
+		setcookie("logged_in", 1, time()+3600);
 		header('Location: index.php');
 		exit();
 	}
