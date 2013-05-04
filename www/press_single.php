@@ -11,7 +11,7 @@
 			    <li class="">
 			      <div class="thumbnail">
 			          <a href="press_single.php" class="">
-			            <img class="img-polaroid" src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""/>
+			            <img class="img-polaroid" src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" width="250" alt=""/>
 			        </a>
 			        <h3>Titre press release</h3>
 			      
@@ -31,6 +31,9 @@
 	 	</div>
     </div> <!-- /container -->
 
-  <?php require_once "all_js_footer.php";?>
+  <?php 
+  require_once "footer.php";
+  require_once "all_js_footer.php";
+  ?>
   </body>
 </html>

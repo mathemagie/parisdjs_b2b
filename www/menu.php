@@ -29,13 +29,10 @@
           </button>
           <a class="brand" href="index.php">ParisDjs</a>
           <div class="nav-collapse collapse">
-            <ul class="nav">
-       <!--       <li><a href="#resellers">Resellers</a></li>-->
-              <li><a href="press.php">Press</a></li>
+            <!--<ul class="nav">
               <li><a href="contact.php">Contact</a></li>
-              <li><a href="choose_profil.php">set profil</a></li>
             </ul>
-             <!--<form class="navbar-form pull-right">
+             <form class="navbar-form pull-right">
               <input class="span2" type="text" placeholder="Email">
               <input class="span2" type="password" placeholder="Password">
               <button type="submit" class="btn">Sign in</button>
@@ -48,7 +45,7 @@
                       <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Welcome, Aurelien <b class="caret"></b></a>
                           <ul class="dropdown-menu">
                               <li><a href="user_update.php"><i class="icon-cog"></i> Preferences</a></li>
-                             
+                              <li><a href="choose_profil.php">Set profile</a></li>
                               <li class="divider"></li>
                               <li><a href="logout.php"><i class="icon-off"></i> Logout</a></li>
                           </ul>

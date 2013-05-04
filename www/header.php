@@ -16,6 +16,8 @@
       }
     </style>
     <link href="css/bootstrap-responsive.css" rel="stylesheet">
+	<link href="css/isotope-wall.css" rel="stylesheet">
+	<link href="css/parisDJs_styles.css" rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>

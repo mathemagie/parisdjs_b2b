@@ -31,6 +31,9 @@
 
   </div> <!-- /container -->
 
-<?php require_once "all_js_footer.php";?>
+<?php 
+require_once "all_js_footer.php";
+require_once "footer.php";
+?>
 </body>
 </html>

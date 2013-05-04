@@ -14,110 +14,214 @@
         ?>
         </p>
 
-       <div class="row-fluid">
-           <table class="table table-bordered table-hover">
-               <thead>
-                  <tr>
-                    <th>Logo </th>
-                    <th>Description</th>
-                          <th>Artist name</th>
-                    <th>label</th>
-                    <th>Release</th>
-                    <th>unit price</th>
-                    <th>stock</th>
-                    <?php if (is_media()) {?>
-                      <th>Order</th>
-                    <?php } ?>
+		<!--start: Wrapper-->
+		<div id="wrapper">
+		
+			<!-- start: Wall -->
+			<div id="wall">
 
-                  </tr>
-                </thead>
-                <tr class="success">
-               
-                  <td>coucou</td>
-                  <td>parisdjs</td>
-                  <td>TIMEC</td>
-                  <td>release</td>
-                  <td>12 10 1878</td>
-                  <td>10</td>
-                  <td>20</td>
-                </tr>
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element title</h2>
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
 
-                <tr >
-                  <td>coucou</td>
-                  <td>PROJECT NAME</td>
-                  <td>TIMEC</td>
-                  <td>release</td>
-                  <td>release</td>
-                  <td>10</td>
-                  <td>20</td>
-                </tr>
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element long title that goes up to 2 lines</h2>							
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
 
-                 <tr >
-                  <td>coucou</td>
-                  <td>parisdjs</td>
-                  <td>TIMEC</td>
-                  <td>release</td>
-                  <td>release</td>
-                  <td>10</td>
-                  <td>20</td>
-                </tr>
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element title</h2>
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
 
-                 <tr >
-                  <td>coucou</td>
-                  <td>parisdjs</td>
-                  <td>TIMEC</td>
-                  <td>release</td>
-                  <td>release</td>
-                  <td>10</td>
-                  <td>20</td>
-                </tr>
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element long title that goes up to 2 lines</h2>							
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
 
-                 <tr >
-                  <td>coucou</td>
-                  <td>parisdjs</td>
-                  <td>TIMEC</td>
-                  <td>release</td>
-                  <td>release</td>
-                  <td>10</td>
-                  <td>20</td>
-                </tr>
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element title</h2>
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
 
-                 <tr >
-                  <td>coucou</td>
-                  <td>parisdjs</td>
-                  <td>TIMEC</td>
-                  <td>release</td>
-                  <td>release</td>
-                  <td>10</td>
-                  <td>20</td>
-                </tr>
-            </table>
-      </div>
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element long title that goes up to 2 lines</h2>							
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
 
-      <!-- Example row of columns -->
-     <!-- <div class="row">
-        <div class="span4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div>
-        <div class="span4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-       </div>
-        <div class="span4">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div>
-      </div>-->
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element title</h2>
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
 
-      <hr>
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element long title that goes up to 2 lines</h2>							
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
 
-      <footer>
-        <p>&copy; ParisDjs 2013</p>
-      </footer>
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element title</h2>
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element long title that goes up to 2 lines</h2>							
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element title</h2>
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="picture">
+						<a class="image" href="press_single.php" title="More details"><img src="img/Grant_Phabao_presents_The_Lone_Ranger_and_Echo_Minott-Plant_Up_A_Vineyard.jpg" alt=""></a>
+						<div class="description">
+							<h2>Element long title that goes up to 2 lines</h2>							
+							<p>
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<div class="meta">
+							<span><i class="fa-icon-calendar"></i>4 May 2013</span>
+							<span><i class="fa-icon-heart-empty"></i> 88</span>
+						</div>
+					</div>
+				</div>
+
+				</div>
+			<!-- end: Wall -->				
+					
+		</div>
+		<!--end: Container-->
+	
+	</div>
+	<!-- end: Wrapper  -->	
+	
+<?php require_once "footer.php";?>
 
     </div> <!-- /container -->
 
