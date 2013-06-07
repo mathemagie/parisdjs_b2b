@@ -2,12 +2,14 @@
 
 
 .item {
-	width: 280px;
-	padding: 5px;
+	width: 202px;
+	padding: 10px;
+	margin: 5px;
+	background: #fff;
 }
 
 .item IMG {
-	width: 280px;
+	/*width: 180px;*/
 }
 	/**** Isotope Filtering ****/
 

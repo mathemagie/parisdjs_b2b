@@ -649,7 +649,7 @@ a:focus {
 }
 
 p {
-  margin: 0 0 10px;
+  margin: 0 0 7px;
 }
 
 .lead {
@@ -3382,7 +3382,8 @@ input[type="button"].btn-block {
 }
 
 .btn-warning {
-  color: #ffffff;
+/*  color: #ffffff;*/
+  font-weight: bold;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
   background-color: #faa732;
   *background-color: #f89406;
