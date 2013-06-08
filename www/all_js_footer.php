@@ -13,5 +13,5 @@
     <script src="js/bootstrap-typeahead.js"></script>
 
     <script src="js/holder/holder.js"></script>
-	<script src="js/wall/jquery.isotope.min.js"></script>
+	<script src="js/wall/jquery.isotope.js"></script>
 	<script src="js/wall/wall.js"></script>
